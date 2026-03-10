@@ -1,0 +1,16 @@
+{
+  "email_profiles": [
+    {
+      "name": "gmail_default",
+      "smtp_server": "smtp.gmail.com",
+      "smtp_port": 587,
+      "use_tls": true,
+      "sender_email": "darkdevvill2006@gmail.com",
+      "sender_password": "whxknanundvsxric",
+      "recipients": ["saigouthamchatakonda@gmail.com"]
+    }
+  ],
+  "key_rotation": {
+    "interval_seconds": 90
+  }
+}
